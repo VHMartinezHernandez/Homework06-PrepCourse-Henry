@@ -1,4 +1,4 @@
-/*⚠️ NO MODIFIQUES EL NOMBRE DE LAS DECLARACIONES ⚠️*/
+/*⚠️ NO MODIFIQUES EL NOMBRE DE LAS DECLARACIONES  ⚠️*/
 
 function crearGato(nombre, edad) {
    // Debes crear un nuevo objeto con las propiedades "nombre" y "edad".
